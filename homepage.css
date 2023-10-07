@@ -24,6 +24,7 @@ html{
 }
 .header-logo{
     width: 250px;
+    padding: 40px;
 }
 .header-nav{
     display: flex;
@@ -245,8 +246,14 @@ button {
 .category-item a img{
     width: 60%;
     text-align: left;
+    padding-left: 10px;
 
 }
+.category-item:hover{
+    border: 2px solid #fefefe;
+    margin-top:  20px;
+}
+
 /*offers on pet*/
 .offers{
     display: flex;
@@ -299,8 +306,8 @@ button {
     justify-content:space-between ;
     padding: 20px;
     gap: 20px;
-
 }
+
 .offer-content .not-button{
 margin-top:90px;
 }
@@ -347,7 +354,10 @@ margin-top:90px;
     margin: 2px 5px;
     font-size: 16px;
 }
-
+.offer:hover{
+    border: none;
+    margin-top:  20px;
+}
 
 
 
@@ -386,9 +396,6 @@ margin-top:90px;
     border-radius: 10px;
     width: 100%;
     cursor: pointer;
-
-
-   
 }
 .sale-item img {
     width: 100%;
@@ -404,10 +411,12 @@ margin-top:90px;
     color: #f8b808;
     font-size: 18px;
     font-weight: 700;
+    margin: 10px 0px;
 }
 .sale-item .name{
     font-size: 16px;
     font-weight: 700;
+    margin: 10px 0px;
 }
 
 
