@@ -16,6 +16,9 @@ ILovePet Shop is an online marketplace dedicated to serving the needs of our bel
 
 1. **Homepage:** A visually appealing landing page introducing visitors to the wonderful world of pet supplies.
 
+## Deployment
+
+The homepage is deployed on GitHub Pages. You can access it [here](https://nguyenthuydung1603.github.io/petshop-homepage/).
 
 ## Getting Started
 
@@ -28,7 +31,7 @@ ILovePet Shop is an online marketplace dedicated to serving the needs of our bel
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/petshop-homepage.git
+    git clone https://github.com/nguyenthuydung1603/petshop-homepage.git
     ```
 
 2. Open the `index.html` file in your preferred browser.
@@ -42,3 +45,4 @@ Explore our website to find the perfect products for your furry friends. Click o
 If you have suggestions, enhancements, or bug fixes, feel free to open an issue or submit a pull request.
 
 Happy shopping for your pets! 🐶🐱
+
