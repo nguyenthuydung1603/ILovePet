@@ -1,10 +1,9 @@
-# ILovePet Shop
+# ILovePet Shop 🐶🐱
 
-This project serves as a simple yet charming web page created as an exercise for WeCamp Batch 3. The goal is to showcase the use of HTML, CSS, and JavaScript to build a delightful and user-friendly website dedicated to our love for pets.
 
 ## Overview
 
-ILovePet Shop is an online marketplace dedicated to serving the needs of our beloved pets, both dogs and cats. From cozy beds to delicious treats, we've got everything to make tails wag and purrs resonate.
+This project serves as a simple yet charming web page created as an exercise for WeCamp Batch 3. The goal is to showcase the use of HTML, CSS, and JavaScript to build a delightful and user-friendly website dedicated to our love for pets.
 
 ## Technologies Used
 
@@ -44,5 +43,5 @@ Explore our website to find the perfect products for your furry friends. Click o
 
 If you have suggestions, enhancements, or bug fixes, feel free to open an issue or submit a pull request.
 
-Happy shopping for your pets! 🐶🐱
+Happy shopping for your pets! 
 
