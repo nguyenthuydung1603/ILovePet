@@ -1,6 +1,6 @@
 # ILovePet Shop
 
-Welcome to ILovePet Shop, your one-stop destination for all things furry and fabulous! 🐾
+This project serves as a simple yet charming web page created as an exercise for WeCamp Batch 3. The goal is to showcase the use of HTML, CSS, and JavaScript to build a delightful and user-friendly website dedicated to our love for pets.
 
 ## Overview
 
